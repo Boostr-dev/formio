@@ -2,6 +2,8 @@
 .idea
 bower_components
 node_modules
+data
 client*
 app*
 npm-debug.log
+package-lock.json
